@@ -7,11 +7,7 @@
                         © <span id="current-year"> 2022 </span> AlphaAE.
                     </p>
                 </div>
-                <div class="col-sm-2 top">
-                    <span id="to-top">
-                        <i class="fa fa-chevron-up" aria-hidden="true"></i>
-                    </span>
-                </div>
+                <div class="col-sm-2 top"></div>
                 <div class="col-sm-5 social">
                     <ul>
                         <li>

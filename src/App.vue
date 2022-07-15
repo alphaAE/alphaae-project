@@ -7,6 +7,8 @@
     </div>
 
     <public-footer></public-footer>
+
+    <!-- <el-backtop target=".page-component__scroll .el-scrollbar__wrap"></el-backtop> -->
   </div>
 </template>
 
@@ -33,5 +35,4 @@ body {
   text-align: center;
   color: #2c3e50;
 } */
-
 </style>
