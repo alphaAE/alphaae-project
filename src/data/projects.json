@@ -1,0 +1,91 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "type": "Mod",
+      "name": "秘密战争",
+      "tag": ["Minecraft", "Mod", "Python"],
+      "description": "网易我的世界 API 制作的 Roguelike 类游戏模组 & 地图",
+      "img": [
+        "./assets/projects/NeteaseMCAddOn_SecretWar_banner.png",
+        "./assets/projects/NeteaseMCAddOn_SecretWar_inGame_1.jpg",
+        "./assets/projects/NeteaseMCAddOn_SecretWar_inGame_2.jpg",
+        "./assets/projects/NeteaseMCAddOn_SecretWar_inGame_3.jpg",
+        "./assets/projects/NeteaseMCAddOn_SecretWar_inGame_4.jpg"
+      ],
+      "createTime": "2020.11.17",
+      "repository": "https://github.com/alphaAE/NeteaseMCAddOn_SecretWar",
+      "playUrl": ""
+    },
+    {
+      "id": 2,
+      "type": "游戏",
+      "name": "[Demo]打飞机",
+      "tag": ["Java", "JOGL"],
+      "description": "使用 JOGL 包开发的雷电玩法小游戏",
+      "img": [
+        "./assets/projects/FightingDemo_1.jpg",
+        "./assets/projects/FightingDemo_2.jpg"
+      ],
+      "createTime": "2019.12.15",
+      "repository": "https://github.com/alphaAE/FightingDemo-Class",
+      "playUrl": ""
+    },
+    {
+      "id": 3,
+      "type": "Mod",
+      "name": "萌化怪物模组",
+      "tag": ["Minecraft", "Mod", "Addon"],
+      "description": "适用于国际版与网易版我的世界基岩的怪物拓展模组",
+      "img": [
+        "./assets/projects/CutMobAddon_banner.jpg",
+        "./assets/projects/CutMobAddon_inGame_1.jpg",
+        "./assets/projects/CutMobAddon_inGame_2.jpg",
+        "./assets/projects/CutMobAddon_inGame_3.jpg"
+      ],
+      "createTime": "2019.06.08",
+      "repository": "https://github.com/alphaAE/CutMobAddon/tree/main",
+      "playUrl": ""
+    },
+    {
+      "id": 3,
+      "type": "Mod",
+      "name": "文字冒险框架模组",
+      "tag": ["Minecraft", "ModPE", "JavaScript"],
+      "description": "适用于国际版我的世界中的 GalGame 游戏框架模组",
+      "img": [
+        "./assets/projects/McGalgame_1.jpg",
+        "./assets/projects/McGalgame_2.jpg"
+      ],
+      "createTime": "2016.03.28",
+      "repository": "https://github.com/alphaAE/Minecraft-ModPE/blob/main/galgame%20%E6%A1%86%E6%9E%B6.js",
+      "playUrl": ""
+    },
+    {
+      "id": 4,
+      "type": "动画",
+      "name": "史丹利的寓言",
+      "tag": ["Minecraft"],
+      "description": "Cinema 4D 制作的我的世界风格原创 3D 动画",
+      "img": ["./assets/projects/Video_Stanley's_Fable.jpg"],
+      "createTime": "2016.01.17",
+      "repository": "",
+      "playUrl": "",
+      "videoUrl": "https://www.bilibili.com/video/BV1hs411R7S4"
+    },
+    {
+      "id": 4,
+      "type": "网站",
+      "name": "任天堂游戏多区域价格比价平台",
+      "tag": ["React", "Python", "Scrapy"],
+      "description": "Python 后端、React 前端开发的可视化游戏比价网站",
+      "img": [
+        "./assets/projects/EshopPriceComparison_1.jpg",
+        "./assets/projects/EshopPriceComparison_2.jpg"
+      ],
+      "createTime": "2021.12.29",
+      "repository": "https://github.com/alphaAE/EshopPriceComparison",
+      "playUrl": ""
+    }
+  ]
+}
