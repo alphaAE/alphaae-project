@@ -1,6 +1,22 @@
 {
   "projects": [
     {
+      "id": 0,
+      "isStar": true,
+      "type": "游戏",
+      "name": "Ruby的冒险",
+      "tag": ["教程向", "Unity", "2.5D"],
+      "description": "学习Unity开发中制作的2.5D小游戏",
+      "descriptionMini": "使用Unity开发的2.5D小游戏",
+      "img": [
+        "./assets/projects/RubysAdventure_1.jpg",
+        "./assets/projects/RubysAdventure_2.jpg"
+      ],
+      "createTime": "2022.06.30",
+      "repository": "https://github.com/alphaAE/RubysAdventure",
+      "playUrl": "http://www.alphaae.com/games/RubysAdventure/"
+    },
+    {
       "id": 1,
       "isStar": true,
       "type": "Mod",
@@ -55,7 +71,7 @@
     },
     {
       "id": 3,
-      "isStar": true,
+      "isStar": false,
       "type": "Mod",
       "name": "文字冒险框架模组",
       "tag": ["Minecraft", "ModPE", "JavaScript"],

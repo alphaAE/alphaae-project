@@ -12,7 +12,7 @@
                     <a href="http://blog.alphaae.com" target="_blank">博客</a>
                 </li>
                 <li>
-                    <a href="http://www.alphaae.com/projects">项目</a>
+                    <a href="http://www.alphaae.com/project">项目</a>
                 </li>
                 <li>
                     <a href="#">关于</a>
