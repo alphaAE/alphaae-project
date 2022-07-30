@@ -36,6 +36,22 @@
       "playUrl": ""
     },
     {
+      "id": 5,
+      "isStar": false,
+      "type": "游戏",
+      "name": "[Demo]幻径",
+      "tag": ["教程向", "Unity", "2D"],
+      "description": "学习Unity开发中制作的2D平台跳跃小游戏",
+      "descriptionMini": "平台跳跃小游戏",
+      "img": [
+        "./assets/projects/Fantasy_1.jpg",
+        "./assets/projects/Fantasy_2.jpg"
+      ],
+      "createTime": "2022.07.30",
+      "repository": "https://github.com/alphaAE/Fantasy",
+      "playUrl": ""
+    },
+    {
       "id": 2,
       "isStar": false,
       "type": "游戏",
@@ -100,7 +116,7 @@
       "videoUrl": "//player.bilibili.com/player.html?aid=3603745&bvid=BV1hs411R7S4&cid=5754859&page=1"
     },
     {
-      "id": 4,
+      "id": 5,
       "isStar": false,
       "type": "网站",
       "name": "Eshop多区价格比价平台",
