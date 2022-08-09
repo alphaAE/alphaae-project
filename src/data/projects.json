@@ -18,7 +18,7 @@
     },
     {
       "id": 1,
-      "isStar": true,
+      "isStar": false,
       "type": "Mod",
       "name": "秘密战争",
       "tag": ["Minecraft", "Mod", "Python"],
@@ -37,7 +37,7 @@
     },
     {
       "id": 5,
-      "isStar": false,
+      "isStar": true,
       "type": "游戏",
       "name": "[Demo]幻径",
       "tag": ["教程向", "Unity", "2D"],
@@ -45,11 +45,12 @@
       "descriptionMini": "平台跳跃小游戏",
       "img": [
         "./assets/projects/Fantasy_1.jpg",
-        "./assets/projects/Fantasy_2.jpg"
+        "./assets/projects/Fantasy_2.jpg",
+        "./assets/projects/Fantasy_3.jpg"
       ],
       "createTime": "2022.07.30",
       "repository": "https://github.com/alphaAE/Fantasy",
-      "playUrl": ""
+      "playUrl": "http://www.alphaae.com/games/Fantasy/"
     },
     {
       "id": 2,
