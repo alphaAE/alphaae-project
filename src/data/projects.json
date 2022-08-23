@@ -147,6 +147,22 @@
       "createTime": "2021.12.29",
       "repository": "https://github.com/alphaAE/EshopPriceComparison",
       "playUrl": ""
+    },
+    {
+      "id": 5,
+      "isStar": false,
+      "type": "网站",
+      "name": "项目集展示站",
+      "tag": ["Vue", "Element"],
+      "description": "Vue2开发的项目展示用网站",
+      "descriptionMini": "项目展示用网站",
+      "img": [
+        "./assets/projects/alphaae-project_1.jpg",
+        "./assets/projects/alphaae-project_2.jpg"
+      ],
+      "createTime": "2022.07.14",
+      "repository": "https://github.com/alphaAE/alphaae-project",
+      "playUrl": ""
     }
   ]
 }
