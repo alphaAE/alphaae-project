@@ -1,22 +1,6 @@
 {
   "projects": [
     {
-      "id": 5,
-      "isStar": false,
-      "type": "游戏",
-      "name": "[Part]背包系统",
-      "tag": ["Unity", "Part"],
-      "description": "Unity下UGUI开发的背包系统",
-      "descriptionMini": "UGUI开发的背包系统",
-      "img": [
-        "./assets/projects/InventorySystem_1.jpg",
-        "./assets/projects/InventorySystem_2.jpg"
-      ],
-      "createTime": "2022.08.24",
-      "repository": "https://github.com/alphaAE/InventorySystem",
-      "playUrl": ""
-    },
-    {
       "id": 0,
       "isStar": false,
       "type": "游戏",
@@ -103,6 +87,23 @@
       "playUrl": ""
     },
     {
+      "id": 5,
+      "isStar": true,
+      "type": "游戏",
+      "name": "[Part]背包系统",
+      "tag": ["Unity", "Part"],
+      "description": "Unity下UGUI开发的背包系统",
+      "descriptionMini": "UGUI开发的背包系统",
+      "img": [
+        "./assets/projects/InventorySystem_1.jpg",
+        "./assets/projects/InventorySystem_2.jpg",
+        "./assets/projects/InventorySystem_3.jpg"
+      ],
+      "createTime": "2022.08.24",
+      "repository": "https://github.com/alphaAE/InventorySystem",
+      "playUrl": "http://www.alphaae.com/games/InventorySystem"
+    },
+    {
       "id": 3,
       "isStar": false,
       "type": "Mod",
@@ -120,7 +121,7 @@
     },
     {
       "id": 4,
-      "isStar": true,
+      "isStar": false,
       "type": "动画",
       "name": "史丹利的寓言",
       "tag": ["Minecraft"],
