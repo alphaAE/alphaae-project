@@ -9,8 +9,8 @@
       "description": "学习Unity开发中制作的2.5D小游戏",
       "descriptionMini": "使用Unity开发的2.5D小游戏",
       "img": [
-        "./assets/projects/RubysAdventure_1.jpg",
-        "./assets/projects/RubysAdventure_2.jpg"
+        "https://website-1305190446.cos.ap-chengdu.myqcloud.com/images/projects/RubysAdventure_1.jpg",
+        "https://website-1305190446.cos.ap-chengdu.myqcloud.com/images/projects/RubysAdventure_2.jpg"
       ],
       "createTime": "2022.06.30",
       "repository": "https://github.com/alphaAE/RubysAdventure",
@@ -25,11 +25,11 @@
       "description": "网易我的世界 API 制作的 Roguelike 类游戏模组 & 地图",
       "descriptionMini": "我的世界 Roguelike 类游戏拓展",
       "img": [
-        "./assets/projects/NeteaseMCAddOn_SecretWar_banner.png",
-        "./assets/projects/NeteaseMCAddOn_SecretWar_inGame_1.jpg",
-        "./assets/projects/NeteaseMCAddOn_SecretWar_inGame_2.jpg",
-        "./assets/projects/NeteaseMCAddOn_SecretWar_inGame_3.jpg",
-        "./assets/projects/NeteaseMCAddOn_SecretWar_inGame_4.jpg"
+        "https://website-1305190446.cos.ap-chengdu.myqcloud.com/images/projects/NeteaseMCAddOn_SecretWar_banner.png",
+        "https://website-1305190446.cos.ap-chengdu.myqcloud.com/images/projects/NeteaseMCAddOn_SecretWar_inGame_1.jpg",
+        "https://website-1305190446.cos.ap-chengdu.myqcloud.com/images/projects/NeteaseMCAddOn_SecretWar_inGame_2.jpg",
+        "https://website-1305190446.cos.ap-chengdu.myqcloud.com/images/projects/NeteaseMCAddOn_SecretWar_inGame_3.jpg",
+        "https://website-1305190446.cos.ap-chengdu.myqcloud.com/images/projects/NeteaseMCAddOn_SecretWar_inGame_4.jpg"
       ],
       "createTime": "2020.11.17",
       "repository": "https://github.com/alphaAE/NeteaseMCAddOn_SecretWar",
@@ -44,9 +44,9 @@
       "description": "学习Unity开发中制作的2D平台跳跃小游戏",
       "descriptionMini": "平台跳跃小游戏",
       "img": [
-        "./assets/projects/Fantasy_1.jpg",
-        "./assets/projects/Fantasy_2.jpg",
-        "./assets/projects/Fantasy_3.jpg"
+        "https://website-1305190446.cos.ap-chengdu.myqcloud.com/images/projects/Fantasy_1.jpg",
+        "https://website-1305190446.cos.ap-chengdu.myqcloud.com/images/projects/Fantasy_2.jpg",
+        "https://website-1305190446.cos.ap-chengdu.myqcloud.com/images/projects/Fantasy_3.jpg"
       ],
       "createTime": "2022.07.30",
       "repository": "https://github.com/alphaAE/Fantasy",
@@ -61,8 +61,8 @@
       "description": "使用 JOGL 包开发的雷电玩法小游戏",
       "descriptionMini": "使用 JOGL 包开发的雷电玩法小游戏",
       "img": [
-        "./assets/projects/FightingDemo_1.jpg",
-        "./assets/projects/FightingDemo_2.jpg"
+        "https://website-1305190446.cos.ap-chengdu.myqcloud.com/images/projects/FightingDemo_1.jpg",
+        "https://website-1305190446.cos.ap-chengdu.myqcloud.com/images/projects/FightingDemo_2.jpg"
       ],
       "createTime": "2019.12.15",
       "repository": "https://github.com/alphaAE/FightingDemo-Class",
@@ -77,10 +77,10 @@
       "description": "适用于国际版与网易版我的世界基岩的怪物拓展模组",
       "descriptionMini": "我的世界基岩版怪物拓展模组",
       "img": [
-        "./assets/projects/CutMobAddon_banner.jpg",
-        "./assets/projects/CutMobAddon_inGame_1.jpg",
-        "./assets/projects/CutMobAddon_inGame_2.jpg",
-        "./assets/projects/CutMobAddon_inGame_3.jpg"
+        "https://website-1305190446.cos.ap-chengdu.myqcloud.com/images/projects/CutMobAddon_banner.jpg",
+        "https://website-1305190446.cos.ap-chengdu.myqcloud.com/images/projects/CutMobAddon_inGame_1.jpg",
+        "https://website-1305190446.cos.ap-chengdu.myqcloud.com/images/projects/CutMobAddon_inGame_2.jpg",
+        "https://website-1305190446.cos.ap-chengdu.myqcloud.com/images/projects/CutMobAddon_inGame_3.jpg"
       ],
       "createTime": "2019.06.08",
       "repository": "https://github.com/alphaAE/CutMobAddon/tree/main",
@@ -95,9 +95,9 @@
       "description": "Unity下UGUI开发的背包系统",
       "descriptionMini": "UGUI开发的背包系统",
       "img": [
-        "./assets/projects/InventorySystem_1.jpg",
-        "./assets/projects/InventorySystem_2.jpg",
-        "./assets/projects/InventorySystem_3.jpg"
+        "https://website-1305190446.cos.ap-chengdu.myqcloud.com/images/projects/InventorySystem_1.jpg",
+        "https://website-1305190446.cos.ap-chengdu.myqcloud.com/images/projects/InventorySystem_2.jpg",
+        "https://website-1305190446.cos.ap-chengdu.myqcloud.com/images/projects/InventorySystem_3.jpg"
       ],
       "createTime": "2022.08.24",
       "repository": "https://github.com/alphaAE/InventorySystem",
@@ -112,8 +112,8 @@
       "description": "适用于国际版我的世界中的 GalGame 游戏框架模组",
       "descriptionMini": "我的世界 GalGame 游戏框架模组",
       "img": [
-        "./assets/projects/McGalgame_1.jpg",
-        "./assets/projects/McGalgame_2.jpg"
+        "https://website-1305190446.cos.ap-chengdu.myqcloud.com/images/projects/McGalgame_1.jpg",
+        "https://website-1305190446.cos.ap-chengdu.myqcloud.com/images/projects/McGalgame_2.jpg"
       ],
       "createTime": "2016.03.28",
       "repository": "https://github.com/alphaAE/Minecraft-ModPE/blob/main/galgame%20%E6%A1%86%E6%9E%B6.js",
@@ -127,7 +127,7 @@
       "tag": ["Minecraft"],
       "description": "Cinema 4D 制作的我的世界风格原创 3D 动画",
       "descriptionMini": "我的世界风格原创 3D 动画",
-      "img": ["./assets/projects/Video_Stanley's_Fable.jpg"],
+      "img": ["https://website-1305190446.cos.ap-chengdu.myqcloud.com/images/projects/Video_Stanley's_Fable.jpg"],
       "createTime": "2016.01.17",
       "repository": "",
       "playUrl": "",
@@ -142,8 +142,8 @@
       "description": "Python 后端、React 前端开发的可视化游戏比价网站",
       "descriptionMini": "可视化游戏比价网站",
       "img": [
-        "./assets/projects/EshopPriceComparison_1.jpg",
-        "./assets/projects/EshopPriceComparison_2.jpg"
+        "https://website-1305190446.cos.ap-chengdu.myqcloud.com/images/projects/EshopPriceComparison_1.jpg",
+        "https://website-1305190446.cos.ap-chengdu.myqcloud.com/images/projects/EshopPriceComparison_2.jpg"
       ],
       "createTime": "2021.12.29",
       "repository": "https://github.com/alphaAE/EshopPriceComparison",
@@ -158,8 +158,8 @@
       "description": "Vue2开发的项目展示用网站",
       "descriptionMini": "项目展示用网站",
       "img": [
-        "./assets/projects/alphaae-project_1.jpg",
-        "./assets/projects/alphaae-project_2.jpg"
+        "https://website-1305190446.cos.ap-chengdu.myqcloud.com/images/projects/alphaae-project_1.jpg",
+        "https://website-1305190446.cos.ap-chengdu.myqcloud.com/images/projects/alphaae-project_2.jpg"
       ],
       "createTime": "2022.07.14",
       "repository": "https://github.com/alphaAE/alphaae-project",
